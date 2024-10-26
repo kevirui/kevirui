@@ -1,4 +1,12 @@
-<h1 align="center">Hi there, i'm Kevin Agustin Ruiz 👋</h1>
+<h1 align="center">Hi there, i'm Kevin Agustin Ruiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevirui&label=Profile%20views&color=0047AB&style=for-the-badge?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
+
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 I'am a passionate Information Systems Engineering student and aspiring full-stack developer. With a strong interest in web development and artificial intelligence, I am constantly seeking to enhance my skills and stay updated with the latest technologies. Currently, I'm focused on mastering the MERN stack and Python for both back-end, front-end development and data science applications.
 
@@ -10,13 +18,17 @@ In my spare time, I also enjoy learning new languages, staying active, and chall
 
 Let’s connect and build something great together!
 
+- :school: I am a `Trainee` at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/es/).
 - 🌱 I’m currently learning:
   - MERN Stack.
   - Python and IA.
+- :technologist: I love using Software, Maths, and Logical as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
 - 👯 I’m looking to collaborate on open source projects.
 - 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
 - ✔️ Ask me about anything, i am happy to help
 - 📫 Reach me at [kevinagustinrockz@gmail.com](kevinagustinrockz@gmail.com)
+- :boom: You can visit [MY WEBSITE](#).
 
 ## My Skills Include
 
@@ -51,10 +63,18 @@ Let’s connect and build something great together!
     <img src="https://img.shields.io/badge/gulp.JS-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
 </p>
 
-## Check Out My Social Media
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:kevinagustinrockz@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/5401155963637"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <a href="https://www.facebook.com/kevinwebdev"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/keviaguss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/kevinagustin/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keviaguss/)
-[![Instagram](https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevinwebdev)
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 ## Github Stats:
 
