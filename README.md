@@ -20,9 +20,10 @@ Let’s connect and build something great together!
 
 - :school: I am a `Trainee` at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/es/).
 - 🌱 I’m currently learning:
-  - MERN Stack.
-  - Python and IA.
-- :technologist: I love using Software, Maths, and Logical as a solution for every `Problem`.
+  - MERN, PERN Stack.
+  - Wordpress Development.
+  - Python and IA, Machine Learning, Data Science with Alura LATAM.
+- :technologist:  I am passionate about technology, artificial intelligence and data science.
 - :nerd_face: Always `learning new things`.
 - 👯 I’m looking to collaborate on open source projects.
 - 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
