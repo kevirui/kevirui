@@ -40,18 +40,16 @@ Let’s connect and build something great together!
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=lightblue"/>
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/
-	<img src="https://img.shields.io/badge/nextjs?style=for-the-badge&logo=nextjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
    
 ### Frameworks
 <p align="left">
+	<img src="https://img.shields.io/badge/nextjs?style=for-the-badge&logo=nextjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/astro?style=for-the-badge&logo=astro&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white" />
-	
 </p>
 
 ### Other Tools and Technologies
@@ -60,7 +58,7 @@ Let’s connect and build something great together!
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+	<img src="https://img.shields.io/badge/mongodb?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
