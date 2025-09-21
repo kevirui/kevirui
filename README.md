@@ -45,7 +45,7 @@ Let’s connect and build something great together!
    
 ### Frameworks
 <p align="left">
-	<img src="https://img.shields.io/badge/nextjs-007396?style=for-the-badge&logo=nextjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/nextjs-007396?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/astro-007396?style=for-the-badge&logo=astro&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
