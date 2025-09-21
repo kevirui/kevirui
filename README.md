@@ -18,7 +18,7 @@ In my spare time, I also enjoy learning new languages, staying active, and chall
 
 Let’s connect and build something great together!
 
-- :school: I am a `Trainee` at [Proyectos DAR](https://www.utn.edu.ar/es/).
+- :school: I am a `Developer` at [Proyectos DAR](https://adopteros.vercel.app/).
 - 🌱 I’m currently learning:
   - Python Machine Learning & IA Engineering, Devops Alura LATAM, and Astro, .NET development.
 - :technologist:  I am passionate about technology, artificial intelligence and data science.
@@ -45,8 +45,8 @@ Let’s connect and build something great together!
    
 ### Frameworks
 <p align="left">
-	<img src="https://img.shields.io/badge/nextjs?style=for-the-badge&logo=nextjs&logoColor=white"/>
-	<img src="https://img.shields.io/badge/astro?style=for-the-badge&logo=astro&logoColor=white"/>
+	<img src="https://img.shields.io/badge/nextjs-FFFFFF&logo=nextjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/astro-FFFFFF&logo=astro&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white" />
