@@ -58,7 +58,7 @@ Let’s connect and build something great together!
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/mongodb?style=flat&logo=mongodb&logoColor=white" />
+	<img src="https://img.shields.io/badge/mongodb-4169E1?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
