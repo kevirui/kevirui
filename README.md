@@ -18,16 +18,16 @@ In my spare time, I also enjoy learning new languages, staying active, and chall
 
 Let’s connect and build something great together!
 
-- :school: I am a `Trainee` at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/es/).
+- :school: I am a `Trainee` at [Proyectos DAR](https://www.utn.edu.ar/es/).
 - 🌱 I’m currently learning:
-  - Python and IA, Machine Learning, Data Science with Alura LATAM.
+  - Python Machine Learning & IA Engineering, Devops Alura LATAM, and Astro, .NET development.
 - :technologist:  I am passionate about technology, artificial intelligence and data science.
 - :nerd_face: Always `learning new things`.
 - 👯 I’m looking to collaborate on open source projects.
 - 🌟 Outside tech, 🎮I love playing strategy and war videogames, 🏋Health life, 🎧Listening to music and 🎸Playing the guitar.
 - ✔️ Ask me about anything, i am happy to help.
 - 📫 Reach me at [kevinagustinrockz@gmail.com](kevinagustinrockz@gmail.com)
-- :boom: You can visit [MY WEBSITE](#).
+- :boom: You can visit [MY WEBSITE](https://keviru-dev.vercel.app/).
 
 ## My Skills Include
 
