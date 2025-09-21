@@ -45,8 +45,8 @@ Let’s connect and build something great together!
    
 ### Frameworks
 <p align="left">
-	<img src="https://img.shields.io/badge/nextjs-FFFFFF&logo=nextjs&logoColor=white"/>
-	<img src="https://img.shields.io/badge/astro-FFFFFF&logo=astro&logoColor=white"/>
+	<img src="https://img.shields.io/badge/nextjs-007396?style=for-the-badge&logo=nextjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/astro-007396?style=for-the-badge&logo=astro&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white" />
@@ -57,8 +57,8 @@ Let’s connect and build something great together!
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/mongodb-4169E1?style=flat&logo=mongodb&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/mongodb-4169E1?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
